@@ -1,0 +1,153 @@
+[
+  {
+    "id": "31f348f1-18ce-49b9-9746-7f9991a0928a",
+    "userId": "01ddc2d0-ab7a-4acb-8796-b399ebc40ecc",
+    "items": [
+      {
+        "productId": "5",
+        "quantity": 1,
+        "product": {
+          "id": "5",
+          "name": "Ruby Pendant",
+          "description": "Vibrant ruby pendant necklace.",
+          "price": 1200,
+          "image": "https://via.placeholder.com/300x200?text=Ruby+Pendant",
+          "category": "Necklaces"
+        }
+      }
+    ],
+    "total": 1200,
+    "shippingAddress": "Flat no.04 , opposite to big basket,VIYAS,Naba jagran sangha club, Mahisbathan",
+    "status": "Pending",
+    "date": "2025-11-14T08:03:59.068Z"
+  },
+  {
+    "id": "8e5f6947-0654-4664-a90b-b71fc37faf87",
+    "userId": "30b42237-757e-47f3-adcc-9418802c12d5",
+    "items": [
+      {
+        "productId": "necklace-1",
+        "quantity": 1,
+        "product": {
+          "id": "necklace-1",
+          "name": "Diamond Pendant Necklace",
+          "description": "Elegant 18k gold necklace with sparkling diamonds",
+          "price": 299.99,
+          "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80",
+          "category": "Necklaces"
+        }
+      }
+    ],
+    "total": 299.99,
+    "shippingAddress": "123 Main St",
+    "phone": "123-456-7890",
+    "receiverName": "Test User",
+    "email": "test@example.com",
+    "status": "Pending",
+    "date": "2025-11-14T08:41:00.279Z"
+  },
+  {
+    "id": "44874ef3-d567-4dca-b188-6a48385f93d8",
+    "userId": "01ddc2d0-ab7a-4acb-8796-b399ebc40ecc",
+    "items": [
+      {
+        "productId": "necklace-1",
+        "quantity": 1,
+        "product": {
+          "id": "necklace-1",
+          "name": "Diamond Pendant Necklace",
+          "description": "Elegant 18k gold necklace with sparkling diamonds",
+          "price": 299.99,
+          "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80",
+          "category": "Necklaces"
+        }
+      }
+    ],
+    "total": 299.99,
+    "shippingAddress": "Flat no.04 , opposite to big basket,VIYAS,Naba jagran sangha club, Mahisbathan",
+    "phone": "7542983994",
+    "receiverName": "AFREEN NAAZ",
+    "email": "afreennaaz261@gmail.com",
+    "status": "Pending",
+    "date": "2025-11-14T09:04:39.919Z"
+  },
+  {
+    "id": "4e68849d-9097-4c06-bc5f-5991770b1ce8",
+    "userId": "01ddc2d0-ab7a-4acb-8796-b399ebc40ecc",
+    "items": [
+      {
+        "productId": "earring-1",
+        "quantity": 1,
+        "product": {
+          "id": "earring-1",
+          "name": "Diamond Stud Earrings",
+          "description": "Classic 1ct diamond stud earrings in 18k white gold",
+          "price": 499.99,
+          "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80",
+          "category": "Earrings"
+        }
+      }
+    ],
+    "total": 499.99,
+    "shippingAddress": "Flat no.04 , opposite to big basket,VIYAS,Naba jagran sangha club, Mahisbathan",
+    "phone": "356969554478",
+    "receiverName": "AFREEN NAAZ",
+    "email": "afreennaaz261@gmail.com",
+    "status": "Pending",
+    "date": "2025-11-14T17:06:57.834Z"
+  },
+  {
+    "id": "4d07d81b-2be9-43ec-948f-778ec9bba589",
+    "userId": "01ddc2d0-ab7a-4acb-8796-b399ebc40ecc",
+    "items": [
+      {
+        "productId": "ring-10",
+        "quantity": 1,
+        "product": {
+          "id": "ring-10",
+          "name": "Butterfly Ring",
+          "description": "Delicate butterfly gold ring",
+          "price": 99.99,
+          "image": "https://i.pinimg.com/1200x/45/89/05/458905446a75f9c276f37846fb01d951.jpg",
+          "category": "Rings"
+        }
+      }
+    ],
+    "total": 99.99,
+    "shippingAddress": "Salt lake,kolkata",
+    "phone": "8334566999",
+    "receiverName": "Simran",
+    "email": "sim23@gmail.com",
+    "status": "Pending",
+    "date": "2025-11-14T19:48:39.699Z",
+    "trackingNumber": "TRK1763149719699HX0HQ",
+    "estimatedDelivery": "2025-11-21T19:48:39.700Z"
+  },
+  {
+    "id": "b44b123d-ef2a-4a67-b217-844325e79654",
+    "userId": "84c9bb99-8512-4e7e-be5b-9dd58499ca44",
+    "items": [
+      {
+        "productId": "necklace-1",
+        "quantity": 1,
+        "product": {
+          "id": "necklace-1",
+          "name": "Diamond Pendant Necklace",
+          "description": "Elegant 18k gold necklace with sparkling diamonds",
+          "price": 299.99,
+          "image": "https://i.pinimg.com/736x/ea/69/5d/ea695d62ae17f8fc03e2b553b2c1ff72.jpg",
+          "category": "Necklaces"
+        }
+      }
+    ],
+    "total": 299.99,
+    "shippingAddress": "salt lake kolkata",
+    "phone": "8334566999",
+    "receiverName": "Simr",
+    "email": "Sim@gmail.com",
+    "status": "Pending",
+    "date": "2025-11-14T20:31:24.058Z",
+    "trackingNumber": "TRK1763152284058R4WBG",
+    "estimatedDelivery": "2025-11-21T20:31:24.059Z"
+  }
+]

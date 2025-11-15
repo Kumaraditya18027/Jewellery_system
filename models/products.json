@@ -1,0 +1,326 @@
+[
+  {
+    "id": "necklace-1",
+    "name": "Diamond Pendant Necklace",
+    "description": "Elegant 18k gold necklace with sparkling diamonds",
+    "price": 299.99,
+    "image": "https://i.pinimg.com/736x/ea/69/5d/ea695d62ae17f8fc03e2b553b2c1ff72.jpg",
+    "category": "Necklaces"
+  },
+  {
+    "id": "necklace-2",
+    "name": "Pearl Strand Necklace",
+    "description": "Classic freshwater pearl necklace with gold clasp",
+    "price": 149.99,
+    "image": "https://i.pinimg.com/1200x/7c/83/ad/7c83ada281e7897f186f0af48b69bf65.jpg",
+    "category": "Necklaces"
+  },
+  {
+    "id": "necklace-3",
+    "name": "Sapphire Chain Necklace",
+    "description": "Delicate silver chain with blue sapphire pendant",
+    "price": 199.99,
+    "image": "https://i.pinimg.com/736x/df/93/7c/df937c16cfd1a9c5b02d9aec72614ead.jpg",
+    "category": "Necklaces"
+  },
+  {
+    "id": "necklace-4",
+    "name": "Gold Layered Necklace",
+    "description": "Modern layered gold necklace design",
+    "price": 179.99,
+    "image": "https://i.pinimg.com/1200x/f3/6c/4e/f36c4e54ecb69a414691ebd7eec89bb9.jpg",
+    "category": "Necklaces"
+  },
+  {
+    "id": "necklace-5",
+    "name": "Emerald Statement Necklace",
+    "description": "Bold emerald pendant on gold chain",
+    "price": 349.99,
+    "image": "https://i.pinimg.com/1200x/c5/ee/fa/c5eefadcdb96ca2776709dd1b3939bab.jpg",
+    "category": "Necklaces"
+  },
+  {
+    "id": "necklace-6",
+    "name": "Crystal Bead Necklace",
+    "description": "Bohemian crystal bead necklace",
+    "price": 89.99,
+    "image": "https://i.pinimg.com/1200x/f2/34/ff/f234ff5345db15d0b5ed8267ee0c5acd.jpg",
+    "category": "Necklaces"
+  },
+  {
+    "id": "necklace-7",
+    "name": "Rose Gold Heart Necklace",
+    "description": "Delicate rose gold heart pendant",
+    "price": 129.99,
+    "image": "https://i.pinimg.com/1200x/78/4f/ad/784fadacd55beb9e7123a0f8b8cff92e.jpg",
+    "category": "Necklaces"
+  },
+  {
+    "id": "necklace-8",
+    "name": "Vintage Cameo Necklace",
+    "description": "Antique-style cameo pendant necklace",
+    "price": 199.99,
+    "image": "https://i.pinimg.com/1200x/a2/37/7f/a2377ff17f93c7bfdaf0dfbdafbc9266.jpg",
+    "category": "Necklaces"
+  },
+  {
+    "id": "necklace-9",
+    "name": "Minimalist Bar Necklace",
+    "description": "Simple gold bar necklace design",
+    "price": 79.99,
+    "image": "https://i.pinimg.com/736x/4f/ba/3f/4fba3fc10199d0239f1d0d3514a170d5.jpg",
+    "category": "Necklaces"
+  },
+  {
+    "id": "necklace-10",
+    "name": "Turquoise Stone Necklace",
+    "description": "Natural turquoise stone pendant",
+    "price": 159.99,
+    "image": "https://i.pinimg.com/1200x/c9/0e/78/c90e78647049a7a84c06469cd832b8b7.jpg",
+    "category": "Necklaces"
+  },
+  {
+    "id": "earring-1",
+    "name": "Diamond Stud Earrings",
+    "description": "Classic 1ct diamond stud earrings in 18k white gold",
+    "price": 499.99,
+    "image": "https://i.pinimg.com/736x/a7/68/64/a76864999b604807927ca1d795912db2.jpg",
+    "category": "Earrings"
+  },
+  {
+    "id": "earring-2",
+    "name": "Pearl Drop Earrings",
+    "description": "Elegant freshwater pearl drop earrings",
+    "price": 129.99,
+    "image": "https://i.pinimg.com/736x/de/7e/02/de7e026a6b237d169d82ba6e4f500abe.jpg",
+    "category": "Earrings"
+  },
+  {
+    "id": "earring-3",
+    "name": "Gold Hoop Earrings",
+    "description": "Large gold hoop earrings with intricate design",
+    "price": 199.99,
+    "image": "https://i.pinimg.com/736x/f1/7d/30/f17d30d6ed2c8d4148b40fa15a928163.jpg",
+    "category": "Earrings"
+  },
+  {
+    "id": "earring-4",
+    "name": "Sapphire Stud Earrings",
+    "description": "Blue sapphire stud earrings in platinum",
+    "price": 349.99,
+    "image": "https://i.pinimg.com/1200x/37/ab/f0/37abf0a6f08e256695d2b557200bd875.jpg",
+    "category": "Earrings"
+  },
+  {
+    "id": "earring-5",
+    "name": "Crystal Chandelier Earrings",
+    "description": "Dramatic crystal chandelier earrings",
+    "price": 249.99,
+    "image": "https://i.pinimg.com/1200x/ef/97/b6/ef97b6f8d6bfcc61382ef5a201b89a9e.jpg",
+    "category": "Earrings"
+  },
+  {
+    "id": "earring-6",
+    "name": "Silver Feather Earrings",
+    "description": "Delicate silver feather earrings",
+    "price": 79.99,
+    "image": "https://i.pinimg.com/1200x/5b/64/38/5b643852b38af54fd6092f56a4f0af15.jpg",
+    "category": "Earrings"
+  },
+  {
+    "id": "earring-7",
+    "name": "Rose Gold Heart Earrings",
+    "description": "Small rose gold heart stud earrings",
+    "price": 89.99,
+    "image": "https://i.pinimg.com/1200x/07/a3/c0/07a3c0416520b6c6a85bc789eda89fe6.jpg",
+    "category": "Earrings"
+  },
+  {
+    "id": "earring-8",
+    "name": "Emerald Cut Earrings",
+    "description": "Emerald cut diamond earrings",
+    "price": 599.99,
+    "image": "https://i.pinimg.com/1200x/da/5a/8a/da5a8afe22311924de183b472124f74a.jpg",
+    "category": "Earrings"
+  },
+  {
+    "id": "earring-9",
+    "name": "Turquoise Stone Earrings",
+    "description": "Natural turquoise stone earrings",
+    "price": 139.99,
+    "image": "https://i.pinimg.com/736x/58/31/12/583112a81a4408f57f31e5495425d7e5.jpg",
+    "category": "Earrings"
+  },
+  {
+    "id": "earring-10",
+    "name": "Minimalist Gold Earrings",
+    "description": "Simple gold bar earrings",
+    "price": 69.99,
+    "image": "https://i.pinimg.com/736x/77/d3/bc/77d3bca5bf42b445da884a9112cf9b7b.jpg",
+    "category": "Earrings"
+  },
+  
+  {
+    "id": "bracelet-1",
+    "name": "Diamond Tennis Bracelet",
+    "description": "18k white gold tennis bracelet with diamonds",
+    "price": 799.99,
+    "image": "https://i.pinimg.com/1200x/f2/f4/a9/f2f4a9ca5dd4441a93cb1165c3ae833d.jpg",
+    "category": "Bracelets"
+  },
+  {
+    "id": "bracelet-2",
+    "name": "Pearl Bracelet",
+    "description": "Freshwater pearl bracelet with gold clasp",
+    "price": 149.99,
+    "image": "https://i.pinimg.com/1200x/ed/ea/76/edea76f2bd8235588346888b8dd25029.jpg",
+    "category": "Bracelets"
+  },
+  {
+    "id": "bracelet-3",
+    "name": "Gold Chain Bracelet",
+    "description": "Heavy gold chain bracelet",
+    "price": 299.99,
+    "image": "https://i.pinimg.com/736x/0b/b1/04/0bb1041f0f1b3b412718af79659bf85c.jpg",
+    "category": "Bracelets"
+  },
+  {
+    "id": "bracelet-4",
+    "name": "Sapphire Bead Bracelet",
+    "description": "Blue sapphire bead bracelet",
+    "price": 199.99,
+    "image": "https://i.pinimg.com/1200x/09/f7/53/09f753accb442f42a37e248c8dc10168.jpg",
+    "category": "Bracelets"
+  },
+  {
+    "id": "bracelet-5",
+    "name": "Crystal Bracelet",
+    "description": "Multi-colored crystal bead bracelet",
+    "price": 89.99,
+    "image": "https://i.pinimg.com/736x/83/ac/4a/83ac4adc0fa7eeec12d3ffe82036bce4.jpg",
+    "category": "Bracelets"
+  },
+  {
+    "id": "bracelet-6",
+    "name": "Silver Bangle Bracelet",
+    "description": "Sterling silver bangle set",
+    "price": 119.99,
+    "image": "https://i.pinimg.com/736x/f2/a5/80/f2a580723b5893f29f781fb0c86a8ee8.jpg",
+    "category": "Bracelets"
+  },
+  {
+    "id": "bracelet-7",
+    "name": "Rose Gold Bracelet",
+    "description": "Delicate rose gold chain bracelet",
+    "price": 179.99,
+    "image": "https://i.pinimg.com/1200x/45/e0/e3/45e0e3f05d12203d7e8e6a5e5c91a5d2.jpg",
+    "category": "Bracelets"
+  },
+  {
+    "id": "bracelet-8",
+    "name": "Emerald Bracelet",
+    "description": "Emerald stone bracelet",
+    "price": 249.99,
+    "image": "https://i.pinimg.com/1200x/d7/a5/ce/d7a5cea2cdec7d318a4e347092ecd58d.jpg",
+    "category": "Bracelets"
+  },
+  {
+    "id": "bracelet-9",
+    "name": "Turquoise Bracelet",
+    "description": "Natural turquoise stone bracelet",
+    "price": 139.99,
+    "image": "https://i.pinimg.com/736x/53/2d/14/532d1466bd64dbf6a9ac16b76e1859a8.jpg",
+    "category": "Bracelets"
+  },
+  {
+    "id": "bracelet-10",
+    "name": "Butterfly Bracelet",
+    "description": "Delicate butterfly charm bracelet",
+    "price": 129.99,
+    "image": "https://i.pinimg.com/1200x/8c/b9/e5/8cb9e5d87e7346495974f0c1a3066a20.jpg",
+    "category": "Bracelets"
+  },
+ 
+  {
+    "id": "ring-1",
+    "name": "Diamond Engagement Ring",
+    "description": "2ct princess cut diamond in platinum setting",
+    "price": 2499.99,
+    "image": "https://i.pinimg.com/1200x/66/76/f6/6676f6341dfed433bf4925060b8b8fd0.jpg",
+    "category": "Rings"
+  },
+  {
+    "id": "ring-2",
+    "name": "Gold Wedding Band",
+    "description": "Classic 18k gold wedding band",
+    "price": 399.99,
+    "image": "https://i.pinimg.com/736x/bb/2b/59/bb2b59c2759cae0d380252464c2aef4d.jpg",
+    "category": "Rings"
+  },
+  {
+    "id": "ring-3",
+    "name": "Sapphire Promise Ring",
+    "description": "Blue sapphire promise ring in white gold",
+    "price": 299.99,
+    "image": "https://i.pinimg.com/1200x/e4/ea/20/e4ea20f82d694890922a23005cadebc3.jpg",
+    "category": "Rings"
+  },
+  {
+    "id": "ring-4",
+    "name": "Emerald Cocktail Ring",
+    "description": "Large emerald stone cocktail ring",
+    "price": 599.99,
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80",
+    "category": "Rings"
+  },
+  {
+    "id": "ring-5",
+    "name": "Crystal Ring",
+    "description": "Multi-colored crystal stone ring",
+    "price": 79.99,
+    "image": "https://i.pinimg.com/1200x/76/17/29/7617290fb9fbd61022ba90ba7dbc4263.jpg",
+    "category": "Rings"
+  },
+  {
+    "id": "ring-6",
+    "name": "Silver Band Ring",
+    "description": "Sterling silver band ring",
+    "price": 69.99,
+    "image": "https://i.pinimg.com/736x/7d/40/f1/7d40f13dff7994c55dcbd7ab404ee2d5.jpg",
+    "category": "Rings"
+  },
+  {
+    "id": "ring-7",
+    "name": "Rose Gold Stackable Rings",
+    "description": "Set of 3 rose gold stackable rings",
+    "price": 149.99,
+    "image": "https://i.pinimg.com/1200x/93/e6/48/93e6481295593dd5c85e586a52f1c767.jpg",
+    "category": "Rings"
+  },
+  {
+    "id": "ring-8",
+    "name": "Turquoise Ring",
+    "description": "Natural turquoise stone ring",
+    "price": 129.99,
+    "image": "https://i.pinimg.com/1200x/37/b4/21/37b421eacdb194e42ed5dcaefe82a523.jpg",
+    "category": "Rings"
+  },
+  {
+    "id": "ring-9",
+    "name": "Minimalist Gold Ring",
+    "description": "Simple gold band ring",
+    "price": 89.99,
+    "image": "https://i.pinimg.com/1200x/d2/db/ee/d2dbee900ffd0a270350b1aa81e00dad.jpg",
+    "category": "Rings"
+  },
+  {
+    "id": "ring-10",
+    "name": "Butterfly Ring",
+    "description": "Delicate butterfly gold ring",
+    "price": 99.99,
+    "image": "https://i.pinimg.com/1200x/45/89/05/458905446a75f9c276f37846fb01d951.jpg",
+    "category": "Rings"
+  }
+]
+
+

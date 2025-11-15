@@ -1,0 +1,18 @@
+{
+  "01ddc2d0-ab7a-4acb-8796-b399ebc40ecc": [],
+  "30b42237-757e-47f3-adcc-9418802c12d5": [
+    {
+      "productId": "necklace-1",
+      "quantity": 1,
+      "product": {
+        "id": "necklace-1",
+        "name": "Diamond Pendant Necklace",
+        "description": "Elegant 18k gold necklace with sparkling diamonds",
+        "price": 299.99,
+        "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80",
+        "category": "Necklaces"
+      }
+    }
+  ],
+  "84c9bb99-8512-4e7e-be5b-9dd58499ca44": []
+}

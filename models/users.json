@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01ddc2d0-ab7a-4acb-8796-b399ebc40ecc",
+    "username": "Afreen Naaz",
+    "password": "Afr@123",
+    "email": "afreennaaz261@gmail.com"
+  },
+  {
+    "id": "30b42237-757e-47f3-adcc-9418802c12d5",
+    "username": "testuser",
+    "password": "password123",
+    "email": "test@example.com"
+  },
+  {
+    "id": "7e47a74d-f8ee-403f-a401-5ee842c9c105",
+    "username": "testuser2",
+    "password": "password123",
+    "email": "test2@example.com"
+  },
+  {
+    "id": "84c9bb99-8512-4e7e-be5b-9dd58499ca44",
+    "username": "Simran",
+    "password": "sim@123",
+    "email": "simran261@gmail.com"
+  }
+]
