@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AfreenJewels - Elegant & Timeless</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="bg-white shadow-sm">
+        <div class="container">
+            <div class="d-flex justify-content-between align-items-center py-3">
+                <div class="d-flex align-items-center">
+                    <h1 class="h4 mb-0 me-4">AfreenJewels</h1>
+                    <nav class="d-none d-md-flex">
+                        <a href="index.html" class="text-decoration-none me-4 text-dark fw-semibold">Home</a>
+                        <a href="#collections" class="text-decoration-none me-4 text-dark">Collections</a>
+                        <a href="#about" class="text-decoration-none me-4 text-dark">About</a>
+                        <a href="#contact" class="text-decoration-none text-dark">Contact</a>
+                    </nav>
+                </div>
+                <div class="d-flex align-items-center">
+                    <div class="input-group me-3" style="max-width: 300px;">
+                        <input type="text" class="form-control" placeholder="Search jewellery..." id="searchInput">
+                        <button class="btn btn-outline-secondary" type="button" id="searchBtn">
+                            <i class="fas fa-search"></i>
+                        </button>
+                    </div>
+                    <a href="wishlist.html" class="text-decoration-none me-3 text-dark">
+                        <i class="fas fa-heart fa-lg"></i>
+                    </a>
+                    <a href="cart.html" class="text-decoration-none me-3 text-dark position-relative">
+                        <i class="fas fa-shopping-cart fa-lg"></i>
+                        <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger" id="cartCount" style="display:none;">0</span>
+                    </a>
+                    <div class="dropdown">
+                        <button class="btn btn-link text-dark dropdown-toggle" type="button" id="userDropdown" data-bs-toggle="dropdown">
+                            <i class="fas fa-user fa-lg"></i>
+                        </button>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="login.html" id="loginLink">Login</a></li>
+                            <li><a class="dropdown-item" href="register.html" id="registerLink">Register</a></li>
+                            <li><hr class="dropdown-divider" id="divider" style="display:none;"></li>
+                            <li><a class="dropdown-item" href="orders.html" id="ordersLink" style="display:none;">My Orders</a></li>
+                            <li><a class="dropdown-item" href="#" id="logoutLink" style="display:none;">Logout</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero-section bg-light py-5">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <h2 class="display-4 fw-bold text-dark mb-4">Timeless Elegance</h2>
+                    <p class="lead text-muted mb-4">Discover our exquisite collection of handcrafted jewellery, designed to make every moment special.</p>
+                    <a href="#products" class="btn btn-dark btn-lg">Shop Now</a>
+                </div>
+                <div class="col-lg-6">
+                    <img src="https://images.unsplash.com/photo-1605100804763-247f67b3557e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80" alt="Elegant Jewellery" class="img-fluid rounded shadow">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Filters -->
+    <section class="py-4 bg-white border-bottom">
+        <div class="container">
+            <div class="d-flex flex-wrap gap-2" id="categoryFilters">
+                <button class="btn btn-outline-dark active" data-category="all">All</button>
+                <button class="btn btn-outline-dark" data-category="Necklaces">Necklaces</button>
+                <button class="btn btn-outline-dark" data-category="Earrings">Earrings</button>
+                <button class="btn btn-outline-dark" data-category="Bracelets">Bracelets</button>
+                <button class="btn btn-outline-dark" data-category="Rings">Rings</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Products Section -->
+    <section id="products" class="py-5">
+        <div class="container">
+            <h2 class="text-center mb-5">Our Collection</h2>
+            <div id="productsContainer" class="row">
+                <!-- Products will be loaded here -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-light py-5 mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h5>AfreenJewels </h5>
+                    <p>Creating timeless pieces since 2024. Quality craftsmanship and elegant designs.</p>
+                </div>
+                <div class="col-md-4">
+                    <h5>Quick Links</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="index.html" class="text-light text-decoration-none">Home</a></li>
+                        <li><a href="#collections" class="text-light text-decoration-none">Collections</a></li>
+                        <li><a href="#about" class="text-light text-decoration-none">About Us</a></li>
+                        <li><a href="#contact" class="text-light text-decoration-none">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h5>Contact Info</h5>
+                    <p><i class="fas fa-phone me-2"></i> +91 123-4567</p>
+                    <p><i class="fas fa-envelope me-2"></i> afreennaaz261@gmail.com</p>
+                    <p><i class="fas fa-map-marker-alt me-2"></i> bariatu Road, Ranchi , Jharkhand</p>
+                </div>
+            </div>
+            <hr>
+            <div class="text-center">
+                <p>&copy; 2024 AfreenJewels. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
